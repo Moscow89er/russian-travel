@@ -1,0 +1,8 @@
+.cover {
+    margin: 0 auto;
+    display: grid;
+    max-width: 1184px;
+    min-height: 740px;
+    width: 100%;
+    background-image: url(../../images/cover__background.jpg);
+}
