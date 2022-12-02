@@ -8,7 +8,9 @@
   text-decoration: none;
   width: 100%;
   background-color: rgba(42, 44, 47, .3);
+  transition: background-color 1s linear 0.3s;
 }
 .cover__overlay:hover {
   background-color: rgba(42, 44, 47, .8);
+  transition: background-color 1s linear 0.3s;
 }

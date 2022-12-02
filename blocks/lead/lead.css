@@ -1,7 +1,12 @@
 .lead {
-    margin: 56px auto 0;
+    margin: 54px auto 0;
     max-width: 984px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+@media (width: 1024px) {
+    .lead {
+        margin: 36px auto 0;
+    }
 }

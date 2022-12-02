@@ -1,6 +1,6 @@
 .lead__figure-caption {
-    margin: 8px auto 0;
-    height: 14px;
+    margin: 4px auto 0;
+    min-height: 14px;
     font-size: 10px;
     font-weight: 400px;
     line-height: 14px;

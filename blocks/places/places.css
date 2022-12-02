@@ -5,3 +5,9 @@
     display: grid;
     gap: 80px;
 }
+@media (width: 1024px) {
+    .places {
+        max-width: 924px;
+        padding: 88px 0 92px;
+    }
+}
