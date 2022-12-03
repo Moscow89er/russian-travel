@@ -7,4 +7,9 @@
     color: #AAA;
     text-transform: uppercase;
 }
+@media (width: 320px){
+    .place__url-heading {
+        margin: 32px auto 14px;
+    }
+}
   

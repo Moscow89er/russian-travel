@@ -11,3 +11,18 @@
         padding: 88px 0 92px;
     }
 }
+@media (width: 768px) {
+    .places {
+        max-width: 768px;
+        gap: 72px;
+    }
+}
+@media (width: 320px) {
+    .places {
+        padding: 0 0 50px;
+        max-width: 320px;
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+}

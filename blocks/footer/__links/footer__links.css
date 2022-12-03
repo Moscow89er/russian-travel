@@ -3,3 +3,8 @@
         margin: 0 auto 0 48px;
     }
 }
+@media (width: 768px) {
+    .footer__links {
+        margin: 0 auto 0 24px;
+    }
+}

@@ -1,3 +1,17 @@
 .header__logo {
     margin: 28px auto auto 48px;
+    max-width: 176px;
+    min-height: 52px;
+}
+@media (width: 768px) {
+    .header__logo {
+        margin: 28px auto auto 24px;
+    }
+}
+@media (width: 320px) {
+    .header__logo {
+        max-width: 142px;
+        min-height: 42px;
+        margin: 16px auto auto 16px;
+    }
 }

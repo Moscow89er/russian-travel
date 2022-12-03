@@ -10,3 +10,8 @@
         margin: 0 48px auto 0;
     }
 }
+@media (width: 768px) {
+    .footer__copyright {
+        margin: 0 24px auto 0;
+    }
+}

@@ -14,3 +14,9 @@
         min-height: 640px;
     }
 }
+@media (width: 768px) {
+    .cover {
+        max-width: 768px;
+        min-height: 480px;
+    }
+}

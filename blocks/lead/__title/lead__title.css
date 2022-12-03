@@ -11,3 +11,10 @@
         padding: 8px 0 0;
     }
 }
+@media (width: 320px) {
+    .lead__title {
+        max-width: 288px;
+        font-size: 40px;
+        line-height: 44px;
+    }
+}
