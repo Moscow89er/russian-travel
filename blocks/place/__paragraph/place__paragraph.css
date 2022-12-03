@@ -8,14 +8,22 @@
 .place__paragraph:last-of-type {
     margin-bottom: 0;
 }
-@media (width: 768px) {
+@media (max-width: 768px) {
     .place__paragraph {
         max-width: 352px;
         font-size: 16px;
         line-height: 26px;
     }
 }
-@media (width: 320px) {
+@media (max-width: 674px) {
+    .place__paragraph {
+        margin: 0 16px 25px;
+        max-width: 288px;
+        font-size: 16px;
+        line-height: 26px;
+    }
+}
+@media (max-width: 320px) {
     .place__paragraph {
         margin: 0 16px 25px;
         max-width: 288px;

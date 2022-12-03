@@ -7,7 +7,12 @@
     color: #AAA;
     text-transform: uppercase;
 }
-@media (width: 320px){
+@media (max-width: 674px){
+    .place__url-heading {
+        margin: 32px auto 14px;
+    }
+}
+@media (max-width: 320px){
     .place__url-heading {
         margin: 32px auto 14px;
     }

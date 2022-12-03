@@ -1,18 +1,18 @@
 .lead__figure-image {
     margin: 0;
-    max-width: 100%;
+    width: 100%;
 }
-@media (width: 1024px) {
+@media (max-width: 1024px) {
     .lead__figure-image {
         max-width: 928px;
     }
 }
-@media (width: 768px) {
+@media (max-width: 768px) {
     .lead__figure-image {
         max-width: 768px;
     }
 }
-@media (width: 320px) {
+@media (max-width: 320px) {
     .lead__figure-image {
         max-width: 320px;
     }

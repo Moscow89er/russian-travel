@@ -5,19 +5,26 @@
     display: grid;
     gap: 80px;
 }
-@media (width: 1024px) {
+@media (max-width: 1024px) {
     .places {
         max-width: 924px;
         padding: 88px 0 92px;
     }
 }
-@media (width: 768px) {
+@media (max-width: 768px) {
     .places {
         max-width: 768px;
         gap: 72px;
     }
 }
-@media (width: 320px) {
+@media (max-width: 674px) {
+    .places {
+        padding: 0 0 30px;
+        max-width: 400px;
+        gap: 62px;
+    }
+}
+@media (max-width: 320px) {
     .places {
         padding: 0 0 30px;
         max-width: 320px;

@@ -4,18 +4,30 @@
     display: flex;
     flex-direction: column;
 }
-@media (width: 1024px) {
+@media (max-width: 1024px) {
     .intro {
         max-width: 928px;
     }
 }
-@media (width: 768px) {
+@media (max-width: 960px) {
+    .intro {
+        max-width: 960px;
+        margin: 90px 0 0 24px;
+    }
+}
+@media (max-width: 768px) {
     .intro {
         max-width: 768px;
         margin: 90px 0 0 24px;
     }
 }
-@media (width: 320px) {
+@media (max-width: 674px) {
+    .intro {
+        max-width: 674px;
+        margin: 64px 16px 0;
+    }
+}
+@media (max-width: 320px) {
     .intro {
         max-width: 320px;
         margin: 64px 16px 0;

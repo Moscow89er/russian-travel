@@ -8,19 +8,19 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-@media (width: 1024px) {
+@media (max-width: 1024px) {
     .cover {
         max-width: 1024px;
         min-height: 640px;
     }
 }
-@media (width: 768px) {
+@media (max-width: 768px) {
     .cover {
         max-width: 768px;
         min-height: 480px;
     }
 }
-@media (width: 320px) {
+@media (max-width: 320px) {
     .cover {
         margin: 36px auto;
         max-width: 320px;

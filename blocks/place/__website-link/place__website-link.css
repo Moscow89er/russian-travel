@@ -12,7 +12,12 @@
     opacity: .8;
     transition: opacity 0.3s linear;
 }
-@media (width: 320px) {
+@media (max-width: 674px) {
+    .place__website-link {
+        margin: 12px auto 0;
+    }
+}
+@media (max-width: 320px) {
     .place__website-link {
         margin: 12px auto 0;
     }

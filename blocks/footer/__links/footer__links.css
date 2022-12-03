@@ -1,14 +1,19 @@
-@media (width: 1024px) {
-    .footer__links {
-        margin: 0 auto 0 48px;
-    }
+.footer__links {
+    margin: 0 auto 0 48px;
 }
-@media (width: 768px) {
+@media (max-width: 768px) {
     .footer__links {
         margin: 0 auto 0 24px;
     }
 }
-@media (width: 320px) {
+@media (max-width: 674px) {
+    .footer__links {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto 0 16px;
+    }
+}
+@media (max-width: 320px) {
     .footer__links {
         display: flex;
         flex-direction: column;
