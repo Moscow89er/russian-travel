@@ -10,6 +10,7 @@
 }
 @media (width: 768px) {
     .place__paragraph {
+        max-width: 352px;
         font-size: 16px;
         line-height: 26px;
     }
@@ -17,7 +18,7 @@
 @media (width: 320px) {
     .place__paragraph {
         margin: 0 16px 25px;
-        max-width: 274px;
+        max-width: 288px;
         font-size: 16px;
         line-height: 26px;
     }

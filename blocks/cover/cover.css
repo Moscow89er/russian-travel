@@ -20,3 +20,10 @@
         min-height: 480px;
     }
 }
+@media (width: 320px) {
+    .cover {
+        margin: 36px auto;
+        max-width: 320px;
+        min-height: 200px;
+    }
+}

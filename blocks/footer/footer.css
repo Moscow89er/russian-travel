@@ -11,3 +11,9 @@
         margin: 88px auto 0;
     }
 }
+@media (width: 320px) {
+    .footer {
+        margin: 64px auto 0;
+        flex-direction: column;
+    }
+}
