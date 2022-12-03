@@ -15,12 +15,6 @@
         margin: 90px 0 0 24px;
     }
 }
-@media (max-width: 768px) {
-    .intro {
-        max-width: 768px;
-        margin: 90px 0 0 24px;
-    }
-}
 @media (max-width: 674px) {
     .intro {
         max-width: 674px;
@@ -30,6 +24,5 @@
 @media (max-width: 320px) {
     .intro {
         max-width: 320px;
-        margin: 64px 16px 0;
     }
 }

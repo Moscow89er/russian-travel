@@ -19,10 +19,3 @@
         gap: 12px;
     }
 }
-@media (max-width: 320px) {
-    .photo-grid {
-        max-width: 320px;
-        margin: 64px auto;
-        gap: 12px;
-    }
-}

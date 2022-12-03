@@ -10,8 +10,8 @@
 }
 @media (max-width: 320px) {
     .header__logo {
+        margin: 16px auto auto 16px;
         max-width: 142px;
         min-height: 42px;
-        margin: 16px auto auto 16px;
     }
 }

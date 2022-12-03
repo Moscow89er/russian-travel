@@ -12,9 +12,4 @@
         margin: 32px auto 14px;
     }
 }
-@media (max-width: 320px){
-    .place__url-heading {
-        margin: 32px auto 14px;
-    }
-}
   

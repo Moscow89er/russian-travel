@@ -20,11 +20,3 @@
         line-height: 34px; 
     }
 }
-@media (max-width: 320px) {
-    .place__title {
-        margin: 0 16px 0;
-        max-width: 288px;
-        font-size: 32px;
-        line-height: 34px; 
-    }
-}
