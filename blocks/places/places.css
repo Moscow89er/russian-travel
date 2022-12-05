@@ -28,6 +28,5 @@
 @media (max-width: 320px) {
     .places {
         max-width: 320px;
-        gap: 62px;
     }
 }

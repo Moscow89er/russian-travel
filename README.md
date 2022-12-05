@@ -20,4 +20,4 @@
 1) Добавить английский язык
 2) Сделать форму, через которую можно получать ОС от людей посещавших сайт
 -----------------------
-Ссылка на GitHub проекта: https://github.com/Moscow89er/russian-travel.git
+Ссылка на проект: https://moscow89er.github.io/russian-travel/
