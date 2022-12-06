@@ -18,12 +18,8 @@
 }
 @media (max-width: 674px){
     .place {
+        margin: 0;
         display: flex;
         flex-direction: column;
-    }
-}
-@media (max-width: 320px){
-    .place {
-        margin: 0;
     }
 }
